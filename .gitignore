@@ -3,3 +3,6 @@ install/
 log/
 __pycache__/
 *.pyc
+turtlebot3/
+turtlebot3_simulations/
+.DS_Store
